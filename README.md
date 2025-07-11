@@ -93,7 +93,9 @@ This project helped strengthen my ability to:
 ---
 
 ### 📸 Dashboard Preview  
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/GeetikaSaini13/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+
+---
 
 📌 **Next Step**: This project is a part of my journey into Data Analysis.  
 Stay tuned for more dashboards in **Power BI**, **SQL**, and **Python**.
